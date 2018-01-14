@@ -1,2 +1,2 @@
-git is a version control system.
-this is my the first git.
+git is a distributed version control system.
+this is my the first git and I like it.
