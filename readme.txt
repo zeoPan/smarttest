@@ -1,1 +1,1 @@
-this is version description.
+Create a new brand is quick.
