@@ -1,1 +1,1 @@
-Create a new brand is quick & simple.
+Create a new brand is quick and simple.
